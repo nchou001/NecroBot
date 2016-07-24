@@ -25,7 +25,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Google")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Ptc")]
         public string AuthType {
             get {
                 return ((string)(this["AuthType"]));
@@ -37,7 +37,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("username2")]
+        [global::System.Configuration.DefaultSettingValueAttribute("babo4tae")]
         public string PtcUsername {
             get {
                 return ((string)(this["PtcUsername"]));
@@ -49,7 +49,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("pw")]
+        [global::System.Configuration.DefaultSettingValueAttribute("qwertyU1")]
         public string PtcPassword {
             get {
                 return ((string)(this["PtcPassword"]));
@@ -61,7 +61,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("52.379189")]
+        [global::System.Configuration.DefaultSettingValueAttribute("34.00893")]
         public double DefaultLatitude {
             get {
                 return ((double)(this["DefaultLatitude"]));
@@ -73,7 +73,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("4.899431")]
+        [global::System.Configuration.DefaultSettingValueAttribute("-118.49781")]
         public double DefaultLongitude {
             get {
                 return ((double)(this["DefaultLongitude"]));
@@ -133,7 +133,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
         public bool EvolveAllPokemonWithEnoughCandy {
             get {
                 return ((bool)(this["EvolveAllPokemonWithEnoughCandy"]));
@@ -193,7 +193,7 @@ namespace PokemonGo.RocketAPI.Console {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
         public bool PrioritizeIVOverCP {
             get {
                 return ((bool)(this["PrioritizeIVOverCP"]));
